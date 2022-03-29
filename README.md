@@ -1,5 +1,6 @@
 ### Qualifications
 - Ruby Association Certified Ruby Programmer Silver version 2.1
+- Japan Statistical Society Certificate Grade 2 / Data Science Advanced
 
 <!--
 **yudukikun5120/yudukikun5120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
