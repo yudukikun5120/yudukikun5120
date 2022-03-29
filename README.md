@@ -1,4 +1,4 @@
-## Qualifications
+### Qualifications
 - Ruby Association Certified Ruby Programmer Silver version 2.1
 
 <!--
