@@ -1,4 +1,4 @@
-### Qualifications
+### 📜 Qualifications
 - Ruby Association Certified Ruby Programmer Silver version 2.1
 - Japan Statistical Society Certificate Grade 2 / Data Science Advanced
 
