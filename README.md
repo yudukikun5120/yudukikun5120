@@ -1,12 +1,12 @@
-### 📜 Qualifications
-
-<img src="https://raw.githubusercontent.com/yudukikun5120/yudukikun5120/main/emblems/logo_silver_v21.svg">
-
----
+## 📜 Qualifications
 
 - [Ruby Association Certified Ruby Programmer Silver version 2.1](https://www.credential.net/c985f2eb-bcea-4397-8177-51a4a51385db)
 - Japan Statistical Society Certificate Grade 2 / Data Science Advanced
 - Fundamental Information Technology Engineer Examination
+
+---
+
+<img width="128px" src="https://raw.githubusercontent.com/yudukikun5120/yudukikun5120/main/emblems/logo_silver_v21.svg">
 
 <!--
 **yudukikun5120/yudukikun5120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
