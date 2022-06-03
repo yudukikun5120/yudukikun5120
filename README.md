@@ -1,6 +1,7 @@
 ## 📜 Qualifications
 
 - [Ruby Association Certified Ruby Programmer Silver version 2.1](https://www.credential.net/c985f2eb-bcea-4397-8177-51a4a51385db)
+- Python 3 Basic Grammar Certification
 - Japan Statistical Society Certificate Grade 2 / Data Science Advanced
 - Fundamental Information Technology Engineer Examination
 
