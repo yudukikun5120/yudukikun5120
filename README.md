@@ -1,3 +1,7 @@
+## 🎁 Products
+
+- __[Kanji Clustering Analysis](https://kanji-clustering.vercel.app)__ - detect similar kanji characters with k-means method
+
 ## 🏅 Qualifications
 
 ### ITSS - level 2
