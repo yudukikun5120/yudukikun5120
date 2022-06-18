@@ -1,11 +1,11 @@
-## 📜 Qualifications
+## 🏅 Qualifications
 
-- [Ruby Association Certified Ruby Programmer Silver version 2.1](https://www.credential.net/c985f2eb-bcea-4397-8177-51a4a51385db)
-- Python 3 - Basic Grammar Certification
-- Python 3 - Data Analyst Certification
-- Japan Statistical Society Certificate - Grade 2
-- Japan Statistical Society Certificate - Data Science Advanced
-- Fundamental Information Technology Engineer Examination
+- [__Ruby Association Certified Ruby Programmer__ Silver version 2.1](https://www.credential.net/c985f2eb-bcea-4397-8177-51a4a51385db)
+- __Python 3 Certification__ Basic Grammar 
+- __Python 3 Certification__ Data Analyst 
+- __Japan Statistical Society Certificate__ Grade 2
+- __Japan Statistical Society Certificate__ Data Science Advanced
+- __Fundamental Information Technology Engineer Certification__
 
 ---
 
