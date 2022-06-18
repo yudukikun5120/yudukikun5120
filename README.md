@@ -1,11 +1,18 @@
 ## 🏅 Qualifications
 
+### ITSS - level 2
+
+- __Fundamental Information Technology Engineer Certification__
+
+### ITSS - level 1
+
 - [__Ruby Association Certified Ruby Programmer__ Silver version 2.1](https://www.credential.net/c985f2eb-bcea-4397-8177-51a4a51385db)
 - __Python 3 Certification__ Basic Grammar 
 - __Python 3 Certification__ Data Analyst 
+
+### Other
 - __Japan Statistical Society Certificate__ Grade 2
 - __Japan Statistical Society Certificate__ Data Science Advanced
-- __Fundamental Information Technology Engineer Certification__
 
 ---
 
