@@ -6,17 +6,17 @@
 
 ### ITSS - level 2
 
-- __Fundamental Information Technology Engineer Certification__
+- Fundamental Information Technology Engineer Certification
 
 ### ITSS - level 1
 
-- [__Ruby Association Certified Ruby Programmer__ Silver version 2.1](https://www.credential.net/c985f2eb-bcea-4397-8177-51a4a51385db)
-- __Python 3 Certification__ Basic Grammar 
-- __Python 3 Certification__ Data Analyst 
+- [Ruby Association Certified Ruby Programmer _Silver version 2.1_](https://www.credential.net/c985f2eb-bcea-4397-8177-51a4a51385db)
+- Python 3 Certification _Basic Grammar_
+- Python 3 Certification _Data Analyst_
 
 ### Other
-- __Japan Statistical Society Certificate__ Grade 2
-- __Japan Statistical Society Certificate__ Data Science Advanced
+- Japan Statistical Society Certificate  _Grade 2_
+- Japan Statistical Society Certificate  _Data Science Advanced_
 
 ---
 
