@@ -17,6 +17,7 @@
 ### Other
 - Japan Statistical Society Certificate  _Grade 2_
 - Japan Statistical Society Certificate  _Data Science Advanced_
+- Visual and Acoustic Processing Engineer Certification （映像音響処理技術者資格）
 
 ---
 
