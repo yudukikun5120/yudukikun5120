@@ -1,6 +1,6 @@
 ## 🎁 Products
 
-- __[Kanji Clustering Analysis](https://kanji-clustering.vercel.app)__ - detect similar kanji characters with k-means method
+- **[Kanji Clustering Analysis](https://kanji-clustering.vercel.app)** - detect similar kanji characters with k-means method
 
 ## 🏅 Qualifications
 
@@ -15,13 +15,16 @@
 - Python 3 Certification _Data Analyst_
 
 ### Other
-- Japan Statistical Society Certificate  _Grade 2_
-- Japan Statistical Society Certificate  _Data Science Advanced_
+
+- Japan Statistical Society Certificate _Grade 2_
+- Japan Statistical Society Certificate _Data Science Advanced_
 - Audio-Visual Postproduction Engineer Certification （映像音響処理技術者資格）
+- [ネットマーケティング検定](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/VTloMEUyd01TNG1DZU41dVR3a1N0Zz09)
 
 ---
 
-<img width="128px" src="https://raw.githubusercontent.com/yudukikun5120/yudukikun5120/main/emblems/logo_silver_v21.svg">
+<img height="128px" src="./emblems/logo_silver_v21.svg" alt="Ruby Silver">
+<img height="128px" src="./emblems/net_marketing.png" alt="Net Marketing Certificate" >
 
 <!--
 **yudukikun5120/yudukikun5120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
