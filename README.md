@@ -23,8 +23,10 @@
 
 ---
 
-<img height="128px" src="./emblems/logo_silver_v21.svg" alt="Ruby Silver">
-<img height="128px" src="./emblems/net_marketing.png" alt="Net Marketing Certificate" >
+<div style="display: flex; align-items: center;">
+  <img height="128px" src="./emblems/logo_silver_v21.svg" alt="Ruby Silver">
+  <img height="128px" src="./emblems/net_marketing.png" alt="Net Marketing Certificate" >
+</div>
 
 <!--
 **yudukikun5120/yudukikun5120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
