@@ -1,6 +1,10 @@
 ## 🎁 Products
 
 - **[Kanji Clustering Analysis](https://kanji-clustering.vercel.app)** - detect similar kanji characters with k-means method
+- **[Teihitsu Training Twitter Bot](https://www.twitter.com/teihitsuTRNG)** - the automated quiz-type Twitter account for "Teihitsu Training".
+- **[Teihitsu Training LINE Bot](https://line.me/R/ti/p/@664jquts?from=page)** - the quiz LINE Bot that features questions from the Kanji-Teihitsu.
+- **[Teihitsu Training CLI](https://github.com/yudukikun5120/teihitsu_training_cli)** - the simple quiz CLI application to solve a huge amount of Kanji Teihitsu questions in numerical order.
+- **[Self-esteem Grade Millefeuille](https://yudukikun5120.github.io/self-esteem-millefeuille/)** - visualize your breathtaking record of the grades, brag it and finally incur one's hatred (for the students at the University of Tsukuba).
 
 ## 🏅 Qualifications
 
