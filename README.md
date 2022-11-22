@@ -7,6 +7,14 @@
 - **[Teihitsu Training CLI](https://github.com/yudukikun5120/teihitsu_training_cli)** - the simple quiz CLI application to solve a huge amount of Kanji Teihitsu questions in numerical order.
 - **[Self-esteem Grade Millefeuille](https://yudukikun5120.github.io/self-esteem-millefeuille/)** - visualize your breathtaking record of the grades, brag it and finally incur one's hatred (for the students at the University of Tsukuba).
 
+## Skills
+
+### Languages
+[![My Skills (languages)](https://skillicons.dev/icons?i=ruby,js,ts,py,elixir,html,css)](https://skillicons.dev)
+
+### Frameworks & libraries
+[![My Skills (languages)](https://skillicons.dev/icons?i=rails,react,vue,electron,tailwind,fastapi,heroku)](https://skillicons.dev)
+
 ## 🏅 Qualifications
 
 ### ITSS - level 2
