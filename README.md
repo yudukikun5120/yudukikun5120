@@ -38,9 +38,9 @@
 ---
 
 <div style="display: flex; align-items: center;">
-  <img height="110px" src="./emblems/aws-certified-cloud-practitioner.png" alt="Net Marketing Certificate" >
-  <img src="./emblems/logo_silver_v21.svg" alt="Ruby Silver">
-  <img height="110px" src="./emblems/net_marketing.png" alt="Net Marketing Certificate" >
+  <img height="100px" src="./emblems/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" >
+  <img height="100px" src="./emblems/logo_silver_v21.svg" alt="Ruby Silver">
+  <img height="100px" src="./emblems/net_marketing.png" alt="Net Marketing Certificate" >
 </div>
 
 <!--
