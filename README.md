@@ -29,6 +29,7 @@
 
 ### Other
 
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e27fdaf0-71ca-4964-b9ce-8e4a4dc64951/public_url)
 - Japan Statistical Society Certificate _Grade 2_
 - Japan Statistical Society Certificate _Data Science Advanced_
 - Audio-Visual Postproduction Engineer Certification （映像音響処理技術者資格）
@@ -37,8 +38,9 @@
 ---
 
 <div style="display: flex; align-items: center;">
-  <img height="128px" src="./emblems/logo_silver_v21.svg" alt="Ruby Silver">
-  <img height="128px" src="./emblems/net_marketing.png" alt="Net Marketing Certificate" >
+  <img height="110px" src="./emblems/aws-certified-cloud-practitioner.png" alt="Net Marketing Certificate" >
+  <img src="./emblems/logo_silver_v21.svg" alt="Ruby Silver">
+  <img height="110px" src="./emblems/net_marketing.png" alt="Net Marketing Certificate" >
 </div>
 
 <!--
