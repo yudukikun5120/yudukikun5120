@@ -1,9 +1,13 @@
+# About me
+
 ## Skills
 
 ### Languages
+
 [![My Skills (languages)](https://skillicons.dev/icons?i=ruby,js,ts,py,elixir,html,css)](https://skillicons.dev)
 
 ### Frameworks & libraries
+
 [![My Skills (languages)](https://skillicons.dev/icons?i=rails,react,vue,electron,tailwind,fastapi,heroku)](https://skillicons.dev)
 
 <!--
