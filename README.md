@@ -1,5 +1,7 @@
 # About me
 
+[![Static Badge](https://img.shields.io/badge/RDF-FOAF-yellow)](https://raw.githubusercontent.com/yudukikun5120/yudukikun5120/main/foaf.rdf#me)
+
 ## Skills
 
 ### Languages
