@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+    <foaf:Person rdf:about="#me">
+        <foaf:name>Arai Yuzuki</foaf:name>
+        <foaf:givenName>Yuzuki</foaf:givenName>
+        <foaf:familyName>Arai</foaf:familyName>
+        <foaf:gender>male</foaf:gender>
+        <foaf:birthday>02-15</foaf:birthday>
+        <foaf:homepage rdf:resource="https://yudukikun5120.me"/>
+        <foaf:mbox rdf:resource="mailto:arai@yudukikun5120.me"/>
+        <foaf:account>
+            <foaf:accountServiceHomepage rdf:resource="http://www.facebook.com"/>
+            <foaf:accountName>
+                yudukikun5120
+            </foaf:accountName>
+        </foaf:account>
+        <foaf:account>
+            <foaf:accountServiceHomepage rdf:resource="http://www.linkedin.com"/>
+            <foaf:accountName>
+                yudukikun5120
+            </foaf:accountName>
+        </foaf:account>
+        <foaf:made>
+            <foaf:Document rdf:about="https://kanji-clustering.vercel.app/ ">
+                <rdfs:label>Kanji Clustering Analysis</rdfs:label>
+                <foaf:topic>
+                    <owl:Thing rdf:about="https://www.wikidata.org/wiki/Q82772">
+                        <rdfs:label>kanji</rdfs:label>
+                    </owl:Thing>
+                </foaf:topic>
+            </foaf:Document>
+        </foaf:made>
+    </foaf:Person>
+
+</rdf:RDF>
